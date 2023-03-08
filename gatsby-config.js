@@ -5,16 +5,14 @@
  */
 
 module.exports = {
+  pathPrefix: `/CV-CalderonCoronaRuben`,
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    title: `Rubén Alejandro Calderón Corona | Cloud Engineer`,
+    author: `Rubén Alejandro Calderón Corona`,
+    description: ``,
+    siteUrl: `https://yoursite.com`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: ``,
     },
   },
   plugins: [

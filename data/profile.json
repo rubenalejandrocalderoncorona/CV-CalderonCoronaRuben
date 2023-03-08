@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
+    "phone": "+52 777 2600878",
+    "email": "rubenalejandrocalderoncorona@gmail.com",
     "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "location": "Cdmx, México"
   },
   "skills": [
     {
@@ -295,7 +295,7 @@
       "url": "https://www.instagram.com/barancezayirli"
     }
   ],
-  "role": "Technologist",
+  "role": "Cloud Engineer",
   "projects": [
     {
       "name": "Gatsby resume starter",
