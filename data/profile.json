@@ -235,11 +235,7 @@
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/RubenCalderonC2"
     },
     {
       "service": "github",
@@ -258,7 +254,7 @@
       "name": "Hobbies Web Pages",
       "company": "Open source",
       "description": "Just a personal webpage to describe more personal information about me.",
-      "link": "https://github.com/urbennoroac/FinAdvisor.git"
+      "link": "https://github.com/rubenalejandrocalderoncorona/Hobbies"
     }
   ],
   
